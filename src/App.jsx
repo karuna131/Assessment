@@ -3,8 +3,8 @@ import UserCard from "./UserCard";
 function App(){
     let userData = [
         { id: 1, name: "Alice", role: "Dev", isActive: true },
-        { id: 1, name: "John", role: "HR", isActive: false },
-        { id: 1, name: "Sia", role: "Manager", isActive: true }
+        { id: 2, name: "John", role: "HR", isActive: false },
+        { id: 3, name: "Sia", role: "Manager", isActive: true }
     ]
 
     return(
